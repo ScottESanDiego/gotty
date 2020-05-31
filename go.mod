@@ -1,4 +1,4 @@
-module github.com/yudai/gotty
+module github.com/ScottESanDiego/gotty
 
 go 1.14
 
